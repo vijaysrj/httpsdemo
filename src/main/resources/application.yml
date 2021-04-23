@@ -1,0 +1,11 @@
+
+
+server:
+  ssl:
+    key-store: C:\softwares\jdk-16\bin\demokeystore
+    key-store-password: demopass
+    key-alias: demokey
+    
+  port: 8443
+    
+     
